@@ -1,0 +1,10 @@
+class Solution:
+    def binaryGap(self, n: int) -> int:
+        res=i=-inf
+        while(n):
+            i+=1
+            if n&1:
+                res=max(i,res)
+                i=0
+            n>>=1
+        return res if res>0 else 0
