@@ -1,0 +1,18 @@
+class Solution:
+    def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
+        shift=1000
+        total_range=2001
+        frequency=[0]*total_range
+        for idx in range(m):
+            value=nums1[idx]+shift
+            frequency[value]+=1
+        for idx in range(n):
+            value=nums2[idx]+shift
+            frequency[value]+=1
+        write_pointer=0
+        for num in range(total_range):
+            while frequency[num]>0:
+                original_number=num-shift
+                nums1[write_pointer]=original_number
+                write_pointer+=1
+                frequency[num]-=1
