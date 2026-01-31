@@ -1,12 +1,12 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> set= new HashSet<>();
-        for(int x: nums){
-            if(set.contains(x)){
+        HashMap<Integer, Integer> map= new HashMap<>();
+        for(int i=0;i<nums.length; i++){
+            if(map.containsKey(nums[i])){
                 return true;
             }
-            set.add(x);
-        }
+            map.put(nums[i],i);
+        }   
         return false;
     }
 }
