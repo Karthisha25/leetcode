@@ -1,44 +1,26 @@
+import java.util.HashMap;
+
 class Solution {
     public int totalFruit(int[] fruits) {
-        int left = 0;
-        int maxLen = 0;
 
-        int type1 = -1, type2 = -1;
-        int count1 = 0, count2 = 0;
-        for (int right = 0; right < fruits.length; right++) {
-            int fruit = fruits[right];
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-            if (fruit == type1) {
-                count1++;
-            } else if (fruit == type2) {
-                count2++;
-            } else if (type1 == -1) {
-                type1 = fruit;
-                count1 = 1;
-            } else if (type2 == -1) {
-                type2 = fruit;
-                count2 = 1;
-            } else {
-                while (count1 > 0 && count2 > 0) {
-                    if (fruits[left] == type1) {
-                        count1--;
-                    } else {
-                        count2--;
-                    }
-                    left++;
+        int l = 0;
+        int maxi = 0;
+
+        for (int r = 0; r < fruits.length; r++) {
+            map.put(fruits[r], map.getOrDefault(fruits[r], 0) + 1);
+            while (map.size() > 2) {
+                map.put(fruits[l], map.get(fruits[l]) - 1);
+
+                if (map.get(fruits[l]) == 0) {
+                    map.remove(fruits[l]);
                 }
-                if (count1 == 0) {
-                    type1 = fruit;
-                    count1 = 1;
-                } else {
-                    type2 = fruit;
-                    count2 = 1;
-                }
+
+                l++;
             }
-
-            maxLen = Math.max(maxLen, right - left + 1);
+            maxi = Math.max(maxi, r - l + 1);
         }
-
-        return maxLen;
+        return maxi;
     }
 }
