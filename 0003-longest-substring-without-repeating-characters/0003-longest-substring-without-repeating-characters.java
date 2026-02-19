@@ -9,8 +9,8 @@ class Solution {
                 l++;
             }
             set.add(s.charAt(r));
-            maxi= Math.max(maxi, r-l+1);
+            maxi=Math.max(maxi, r-l+1);
         }
-           return maxi;
+        return maxi;
     }
 }
