@@ -7,7 +7,6 @@ class Solution {
                    list.add(nums1[i]);
                    break; 
                 }
-
             }
         }
         int[] ans= new int[list.size()];
