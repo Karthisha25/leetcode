@@ -42,6 +42,7 @@ Solutions are updated regularly
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/Karthisha25/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -66,4 +67,12 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
