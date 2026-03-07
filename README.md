@@ -31,6 +31,7 @@ Solutions are updated regularly
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Karthisha25/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Solutions are updated regularly
 | [0387-first-unique-character-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +78,8 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 <!---LeetCode Topics End-->
