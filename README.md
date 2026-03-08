@@ -33,6 +33,7 @@ Solutions are updated regularly
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Karthisha25/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Solutions are updated regularly
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Karthisha25/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@ Solutions are updated regularly
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Karthisha25/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
