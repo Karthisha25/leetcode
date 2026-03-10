@@ -45,6 +45,7 @@ Solutions are updated regularly
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karthisha25/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## String
@@ -55,6 +56,7 @@ Solutions are updated regularly
 | [0242-valid-anagram](https://github.com/Karthisha25/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +94,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthisha25/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Karthisha25/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Math
