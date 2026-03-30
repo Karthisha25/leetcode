@@ -76,6 +76,7 @@ Solutions are updated regularly
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/Karthisha25/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Karthisha25/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0338-counting-bits](https://github.com/Karthisha25/leetcode/tree/main/0338-counting-bits/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
