@@ -106,6 +106,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Karthisha25/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0070-climbing-stairs](https://github.com/Karthisha25/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -115,4 +116,12 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Karthisha25/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Karthisha25/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Karthisha25/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
