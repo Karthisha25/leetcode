@@ -1,16 +1,13 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int n= nums.length;
-        int k=0;
-        for(int i=0; i<=n-1; i++){
+        int j=0;
+        for(int i=0;i<nums.length;i++){
             if(nums[i]!=0){
-                nums[k]=nums[i];
-                k++;
+                int temp=nums[i];
+                nums[i]=nums[j];
+                nums[j]=temp;
+                j++;
             }
-        }
-        while(k<n){
-            nums[k]=0;
-            k++;
         }
     }
 }
