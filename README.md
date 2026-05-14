@@ -31,6 +31,7 @@ Solutions are updated regularly
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Karthisha25/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthisha25/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Karthisha25/leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Karthisha25/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Karthisha25/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -82,6 +83,7 @@ Solutions are updated regularly
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Karthisha25/leetcode/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/Karthisha25/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Prefix Sum
