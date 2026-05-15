@@ -30,6 +30,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Karthisha25/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0075-sort-colors](https://github.com/Karthisha25/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthisha25/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Karthisha25/leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Karthisha25/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -72,6 +73,7 @@ Solutions are updated regularly
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Karthisha25/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/Karthisha25/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Queue
@@ -99,6 +101,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Karthisha25/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Karthisha25/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
