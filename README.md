@@ -30,6 +30,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Karthisha25/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/Karthisha25/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Karthisha25/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthisha25/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Karthisha25/leetcode/tree/main/0136-single-number/) | Easy |
@@ -140,6 +141,7 @@ Solutions are updated regularly
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Karthisha25/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Karthisha25/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthisha25/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Karthisha25/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -151,5 +153,6 @@ Solutions are updated regularly
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Karthisha25/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Karthisha25/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
