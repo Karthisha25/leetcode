@@ -42,6 +42,7 @@ Solutions are updated regularly
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Karthisha25/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karthisha25/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Karthisha25/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -161,4 +162,8 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karthisha25/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
