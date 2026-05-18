@@ -30,6 +30,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Karthisha25/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/Karthisha25/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Karthisha25/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Karthisha25/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthisha25/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -165,5 +166,6 @@ Solutions are updated regularly
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Karthisha25/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
