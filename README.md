@@ -114,6 +114,7 @@ Solutions are updated regularly
 | [0189-rotate-array](https://github.com/Karthisha25/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karthisha25/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Karthisha25/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
