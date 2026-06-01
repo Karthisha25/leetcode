@@ -110,6 +110,7 @@ Solutions are updated regularly
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Karthisha25/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Karthisha25/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Karthisha25/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -142,6 +143,7 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Karthisha25/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Karthisha25/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Karthisha25/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
