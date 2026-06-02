@@ -118,6 +118,7 @@ Solutions are updated regularly
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karthisha25/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Solutions are updated regularly
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Karthisha25/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Karthisha25/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
