@@ -32,6 +32,7 @@ Solutions are updated regularly
 | [0001-two-sum](https://github.com/Karthisha25/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Karthisha25/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/Karthisha25/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/Karthisha25/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Karthisha25/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthisha25/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -55,6 +56,7 @@ Solutions are updated regularly
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Karthisha25/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthisha25/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/Karthisha25/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Karthisha25/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Karthisha25/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Karthisha25/leetcode/tree/main/0242-valid-anagram/) | Easy |
