@@ -43,6 +43,7 @@ Solutions are updated regularly
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Karthisha25/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Karthisha25/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -180,5 +181,6 @@ Solutions are updated regularly
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Karthisha25/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
