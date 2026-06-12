@@ -183,6 +183,11 @@ Solutions are updated regularly
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Karthisha25/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Karthisha25/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/Karthisha25/leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Karthisha25/leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
