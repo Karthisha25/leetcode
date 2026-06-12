@@ -143,6 +143,7 @@ Solutions are updated regularly
 | [0002-add-two-numbers](https://github.com/Karthisha25/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Karthisha25/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Karthisha25/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Karthisha25/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@ Solutions are updated regularly
 | [0035-search-insert-position](https://github.com/Karthisha25/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Karthisha25/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/Karthisha25/leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Karthisha25/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Karthisha25/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
