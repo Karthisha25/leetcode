@@ -124,6 +124,7 @@ Solutions are updated regularly
 | [0141-linked-list-cycle](https://github.com/Karthisha25/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Karthisha25/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Karthisha25/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -158,6 +159,7 @@ Solutions are updated regularly
 | [0141-linked-list-cycle](https://github.com/Karthisha25/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Karthisha25/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -166,6 +168,7 @@ Solutions are updated regularly
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Karthisha25/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +209,8 @@ Solutions are updated regularly
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Karthisha25/leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Karthisha25/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
