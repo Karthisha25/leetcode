@@ -129,6 +129,7 @@ Solutions are updated regularly
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karthisha25/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@ Solutions are updated regularly
 | [0328-odd-even-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
