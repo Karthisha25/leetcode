@@ -50,6 +50,7 @@ Solutions are updated regularly
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Karthisha25/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Karthisha25/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthisha25/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karthisha25/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Karthisha25/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -98,6 +99,7 @@ Solutions are updated regularly
 | [0169-majority-element](https://github.com/Karthisha25/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Karthisha25/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Karthisha25/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Solutions are updated regularly
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Karthisha25/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Karthisha25/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karthisha25/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -237,4 +240,5 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karthisha25/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Karthisha25/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
