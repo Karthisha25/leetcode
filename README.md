@@ -48,6 +48,7 @@ Solutions are updated regularly
 | [0523-continuous-subarray-sum](https://github.com/Karthisha25/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Karthisha25/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Karthisha25/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/Karthisha25/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Karthisha25/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Karthisha25/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Karthisha25/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -240,5 +241,6 @@ Solutions are updated regularly
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karthisha25/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/Karthisha25/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Karthisha25/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
