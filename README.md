@@ -89,6 +89,7 @@ Solutions are updated regularly
 | [0242-valid-anagram](https://github.com/Karthisha25/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Karthisha25/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/Karthisha25/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthisha25/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -138,6 +139,7 @@ Solutions are updated regularly
 | [0189-rotate-array](https://github.com/Karthisha25/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Karthisha25/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/Karthisha25/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Karthisha25/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -196,6 +198,7 @@ Solutions are updated regularly
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Karthisha25/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Karthisha25/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Karthisha25/leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/Karthisha25/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
