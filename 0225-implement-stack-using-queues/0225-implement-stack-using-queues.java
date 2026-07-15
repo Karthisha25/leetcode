@@ -1,29 +1,26 @@
 class MyStack {
-    Queue<Integer> q1;
-    Queue<Integer> q2;
+    Queue<Integer> q;
     public MyStack() {
-        q1= new LinkedList<>();
-        q2= new LinkedList<>();
-    }   
+        q= new LinkedList<>();
+    }    
     public void push(int x) {
-        q2.offer(x);
-        while(!q1.isEmpty()){
-            q2.offer(q1.poll());
+        q.offer(x);
+        int size= q.size();
+        while(size>1){
+            q.offer(q.poll());
+            size--;
         }
-        Queue<Integer> temp= q1;
-        q1=q2;
-        q2=temp;
-    }  
-    public int pop() {
-        return q1.poll();
     }
-    
+   
+    public int pop() {
+        return q.poll();
+    } 
     public int top() {
-        return q1.peek();
+        return q.peek();
     }
     
     public boolean empty() {
-        return q1.isEmpty();
+        return q.isEmpty();
     }
 }
 
