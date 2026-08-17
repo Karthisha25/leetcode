@@ -101,6 +101,7 @@ Solutions are updated regularly
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karthisha25/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Karthisha25/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Karthisha25/leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Karthisha25/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthisha25/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -255,6 +256,7 @@ Solutions are updated regularly
 | [0234-palindrome-linked-list](https://github.com/Karthisha25/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Karthisha25/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Karthisha25/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Karthisha25/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,4 +281,8 @@ Solutions are updated regularly
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Karthisha25/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Karthisha25/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Karthisha25/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
